@@ -2,6 +2,11 @@
 
 The project was done using python 3.9.2 with the Flask framework and a sqlite database in a linux environment.
 
+To download run:
+```bash
+git clone https://github.com/Eugene-Miller/ProductCatalog.git
+```
+
 To install flask run:
 ```bash
 pip install Flask
